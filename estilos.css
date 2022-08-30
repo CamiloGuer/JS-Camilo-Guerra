@@ -1,0 +1,38 @@
+.navbar-brand {
+    font-size: 30px;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+}
+
+#contenedor {
+    max-width: 800px;
+    margin: 25px auto;
+}
+#cajat {
+    background-color: black;
+    color: white;
+}
+.cajas {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 12px;
+    background-color: coral;
+    color: white;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.moneda {
+    align-self: center;
+    text-align: center;
+    font-size: 22px;
+    padding: 5px;
+}
+
+.valor {
+    font-size: 22px;
+    padding: 5px;
+    font-weight: bold;
+}

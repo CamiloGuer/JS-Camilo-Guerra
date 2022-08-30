@@ -1,0 +1,37 @@
+[
+    {
+            "id": 1,
+            "name": "Peso UY",
+            "cambio": 1
+    },
+    {
+            "id": 2,
+            "name": "Peso AR",
+            "cambio": 3.5
+    },
+    {
+            "id": 3,
+            "name": "Dolar US",
+            "cambio": 0.025
+    },
+    {
+            "id": 4,
+            "name": "Euro",
+            "cambio": 0.023
+    },
+    {
+            "id": 5,
+            "name": "Real BR",
+            "cambio": 0.13
+    },
+    {
+            "id": 6,
+            "name": "Libra GB",
+            "cambio": 0.021
+    },
+    {
+            "id": 7,
+            "name": "Yen",
+            "cambio": 3.41
+    }
+    ]    
